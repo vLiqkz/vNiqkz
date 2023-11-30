@@ -20,6 +20,6 @@ I Know
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=vNiqkzs&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=vNiqkz&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vNiqkz&exclude_repo=github-readme-stats,kudivs.github.io&layout=compact&theme=radical)
