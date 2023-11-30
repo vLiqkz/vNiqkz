@@ -17,3 +17,9 @@ I Know
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=vNiqkzs&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vNiqkz&exclude_repo=github-readme-stats,kudivs.github.io&layout=compact&theme=radical)
